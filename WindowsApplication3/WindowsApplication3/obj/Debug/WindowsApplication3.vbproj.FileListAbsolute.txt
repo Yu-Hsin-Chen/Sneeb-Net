@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\天秤瀏覽（Sneeβ.Net）.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\天秤瀏覽（Sneeβ.Net）.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\天秤瀏覽（Sneeβ.Net）.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\天秤瀏覽（Sneeβ.Net）.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Sneeβ.Net.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Sneeβ.Net.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\天秤瀏覽（Sneeβ.Net）.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\天秤瀏覽（Sneeβ.Net）.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\天秤瀏覽（Sneeβ.Net）.pdb
